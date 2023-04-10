@@ -7,3 +7,9 @@ Here I introduced vue router, element plus, less, sass, axios
 Encapsulated axios and router files
 
 In the future, you can introduce Vuex and Echarts yourself
+
+How to get started quickly?
+
+1.npm install
+
+2.npm run dev
